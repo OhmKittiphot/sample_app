@@ -1,2 +1,0 @@
-flask
-pymongo==4.14.1
